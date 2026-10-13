@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">8161359Assignment2</string>
+    <string name="login_title">History Explorer</string>
+    <string name="login_subtitle">Sign in to explore historical events</string>
+    <string name="student_id_hint">Student ID (without s)</string>
+    <string name="password_hint">First-name password (case-sensitive)</string>
+    <string name="login_button">Log in</string>
+    <string name="login_success">Login successful. Keypass: %1$s</string>
+    <string name="dashboard_title">Historical Events</string>
+    <string name="dashboard_count">Events: %1$d</string>
+    <string name="dashboard_retry">Retry</string>
+    <string name="dashboard_empty">No historical events were returned.</string>
+
+    <string name="event_year_range">%1$d–%2$d</string>
+    <string name="event_single_year">%1$d</string>
+    <string name="event_location">Location: %1$s</string>
+    <string name="event_key_figure">Key figure: %1$s</string>
+    <string name="dashboard_missing_keypass">Missing login information. Please log in again.</string>
+    <string name="details_start_year">Start year: %1$d</string>
+    <string name="details_end_year">End year: %1$d</string>
+    <string name="details_description_title">Description</string>
+    <string name="details_back">Back to events</string>
+    <string name="details_missing_event">Event information is missing. Please select the event again.</string>
+</resources>
